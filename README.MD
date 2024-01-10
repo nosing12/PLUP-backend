@@ -7,7 +7,7 @@ PLUP Backend.
 - [ ] Create Account
 - [ ] see Profile
 - [ ] Login
-- [ ]
+- [ ] Edit Profile
 - [ ]
 - [ ]
 - [ ]
